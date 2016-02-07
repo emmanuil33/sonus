@@ -1,5 +1,5 @@
 {
-    "name": "closca/sonus",
+    "name": "emmanuil33/sonus",
     "description": "A laravel audio and video conversion, thumbnail generator and metadata editor package powered by ffmpeg",
     "keywords": ["laravel", "ffmpeg", "ffprobe", "converter"],
     "license": "MIT",
